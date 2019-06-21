@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Jquery</title>
+
+    <style>
+
+        body
+        {
+            background: #c166a1;
+        }
+        textArea
+        {
+            background:#171d8e;
+            color:#7fecab;
+        }
+    </style>
+</head>
+<body>
+
+<h2>오늘의 메뉴</h2>
+<div class="hansik">
+  <div id="div2">
+  <ul>
+  <li id="li3"></li>
+  <li id="li4"></li>
+  
+  <ul>
+  <li id="li5"></li>
+  </ul>
+  </ul>
+  </div>
+</div>
+<script src="js/jquery-3.4.1.js" type="text/javascript">
+
+</script>
+</body>
+</html>

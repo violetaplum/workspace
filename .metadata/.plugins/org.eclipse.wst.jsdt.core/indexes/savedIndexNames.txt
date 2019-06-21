@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\KGITBANK\Desktop\¿ÀÈÄ¹Ý\eclipse-jee-luna-R-win32-x86_64\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2471614885.index
+2158302349.index
+3107711258.index
+3115203634.index
+4102297669.index
+3559966406.index
+3780772265.index
